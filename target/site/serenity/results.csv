@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Serenity inital test","Update user test","SUCCESS","2022-01-04T10:50:19.136-05:00[America/Bogota]","0.0","5.06"
+"Serenity inital test","Get user","SUCCESS","2022-01-04T11:12:40.286-05:00[America/Bogota]","0.0","3.24"
+"Serenity inital test","Register user test","SUCCESS","2022-01-04T11:14:59.781-05:00[America/Bogota]","0.0","3.62"
